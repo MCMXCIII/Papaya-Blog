@@ -3,8 +3,8 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Casper',
-    description: 'A port of the casper blog built for gatsby',
+    title: 'Papaya~',
+    description: 'An anime blog.',
     siteUrl: 'https://papaya.moe', // full path to blog - no ending slash
   },
   mapping: {
