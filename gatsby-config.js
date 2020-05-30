@@ -4,7 +4,7 @@ const path = require('path');
 module.exports = {
   siteMetadata: {
     title: 'Papaya~',
-    description: 'An anime blog.',
+    description: 'An Anime blog.',
     siteUrl: 'https://papaya.moe', // full path to blog - no ending slash
   },
   mapping: {
