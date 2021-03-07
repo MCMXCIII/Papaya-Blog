@@ -24,3 +24,6 @@ The version of Ghost you are looking at right now would not have been made possi
 The main thing you'll want to read about next is probably: the Ghost editor. This is where the good stuff happens.
 
 > By the way, once you're done reading, you can simply delete the default **Ghost** user from your team to remove all of these introductory posts!
+
+
+Test for commits and builds.
