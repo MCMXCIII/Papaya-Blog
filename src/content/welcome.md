@@ -26,4 +26,4 @@ The main thing you'll want to read about next is probably: the Ghost editor. Thi
 > By the way, once you're done reading, you can simply delete the default **Ghost** user from your team to remove all of these introductory posts!
 
 
-Test for commits and builds.
+Test for commits and builds and this buidl too
