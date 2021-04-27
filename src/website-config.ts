@@ -52,7 +52,7 @@ const config: WebsiteConfig = {
   title: 'Papaya Coffee Club',
   description: 'Weightlifting and Coffee',
   coverImage: 'img/blog-cover.png',
-  logo: 'img/ghost-logo.png',
+  logo: 'img/beach-coffee.jpg ',
   lang: 'en',
   siteUrl: 'https://papaya.moe',
   facebook: 'https://www.facebook.com/ghost',
